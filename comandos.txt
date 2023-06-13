@@ -8,5 +8,17 @@ node -v
 versão instalada
 #ng --version
 
+criando um projeto angular
+#ng new crud-angular
+
+
+
+
+
+*************
+extensão vs code
+https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack
+
+
 
 
