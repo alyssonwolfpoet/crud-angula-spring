@@ -1,0 +1,12 @@
+instalar o angula globalmente
+#npm install -g @angular/cli
+
+npm install -g npm@9.7.1
+npm --version
+node -v
+ 
+versão instalada
+#ng --version
+
+
+
