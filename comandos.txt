@@ -1,24 +1,17 @@
-instalar o angula globalmente
+instalar o angular globalmente
 #npm install -g @angular/cli
 
 npm install -g npm@9.7.1
 npm --version
 node -v
  
-versão instalada
+versão instalada do angular
 #ng --version
 
 criando um projeto angular
 #ng new crud-angular
 
 
-
-
-
 *************
 extensão vs code
 https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack
-
-
-
-
