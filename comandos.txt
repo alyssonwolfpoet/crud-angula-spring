@@ -21,6 +21,13 @@ adicionar um modelo
 #ng generate module
 #ng g m courses
 
+importa o modolo junto com o rotiamento
+ng g m courses --routing
+
+gerar um componente
+#ng g component
+#ng g c courses/courses
+
 *************
 extensão vs code
 https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack
