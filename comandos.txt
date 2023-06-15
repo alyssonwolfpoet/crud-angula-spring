@@ -11,6 +11,11 @@ versão instalada do angular
 criando um projeto angular
 #ng new crud-angular
 
+iniciar o servido para host
+#ng serve
+
+material desing angular
+#ng add @angular/material
 
 *************
 extensão vs code
