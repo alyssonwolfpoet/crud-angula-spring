@@ -1,10 +1,10 @@
-instalar o angular globalmente
-#npm install -g @angular/cli
-
 npm install -g npm@
 npm --version
 node -v
- 
+
+instalar o angular globalmente
+#npm install -g @angular/cli
+
 versão instalada do angular
 #ng version
 
@@ -16,6 +16,10 @@ iniciar o servido para host
 
 material desing angular
 #ng add @angular/material
+
+adicionar um modelo
+#ng generate module
+#ng g m courses
 
 *************
 extensão vs code
