@@ -6,7 +6,7 @@ npm --version
 node -v
  
 versão instalada do angular
-#ng --version
+#ng version
 
 criando um projeto angular
 #ng new crud-angular
