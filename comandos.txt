@@ -1,7 +1,7 @@
 instalar o angular globalmente
 #npm install -g @angular/cli
 
-npm install -g npm@9.7.1
+npm install -g npm@
 npm --version
 node -v
  
