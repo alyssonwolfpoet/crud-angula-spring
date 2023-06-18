@@ -12,7 +12,7 @@ import {MatTableModule} from '@angular/material/table';
   ],
   imports: [
     CommonModule,
-    CoursesRoutingModule
+    CoursesRoutingModule,
     MatTableModule
   ]
 })
