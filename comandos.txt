@@ -28,6 +28,9 @@ gerar um componente
 #ng g component
 #ng g c courses/courses
 
+cria uma interface apenas em tempo de desenvolvimento
+#ng g interface courses/model/course
+
 *************
 extensão vs code
 https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack
