@@ -20,13 +20,13 @@ material desing angular
 adicionar um modelo
 #ng generate module
 #ng g m courses
-
 importa o modolo junto com o rotiamento
-ng g m courses --routing
+#ng g m courses --routing
 
 gerar um componente
 #ng g component
 #ng g c courses/courses
+https://angular.io/guide/lazy-loading-ngmodules
 
 cria uma interface apenas em tempo de desenvolvimento
 #ng g interface courses/model/course

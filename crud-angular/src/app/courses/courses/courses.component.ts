@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { Course } from '../model/course';
 
 @Component({
   selector: 'app-courses',
@@ -7,12 +6,5 @@ import { Course } from '../model/course';
   styleUrls: ['./courses.component.scss']
 })
 export class CoursesComponent {
-
-  courses : Course[]= [];
-  displayedColumns = ['nome','category'];
-
-  constructor(){
-    //this.courses = [];
-  }
 
 }
