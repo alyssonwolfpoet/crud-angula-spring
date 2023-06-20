@@ -31,6 +31,9 @@ https://angular.io/guide/lazy-loading-ngmodules
 cria uma interface apenas em tempo de desenvolvimento
 #ng g interface courses/model/course
 
+criação de um modulo compartilhado para importes
+#ng g m shared/app-material
+
 *************
 extensão vs code
 https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack
