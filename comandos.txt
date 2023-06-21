@@ -34,6 +34,10 @@ cria uma interface apenas em tempo de desenvolvimento
 criação de um modulo compartilhado para importes
 #ng g m shared/app-material
 
+criacao de serviço
+#ng g service 
+#ng g s courses/services/courses
+
 *************
 extensão vs code
 https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack
