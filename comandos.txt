@@ -38,6 +38,8 @@ criacao de serviço
 #ng g service 
 #ng g s courses/services/courses
 
+chamada ajax httpclient import { HttpClient } from '@angular/common/http';
+
 *************
 extensão vs code
 https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack
